@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardSorterWin", "CardSorterWin\CardSorterWin.csproj", "{21666BED-0E5B-4ADF-901D-03CA99648721}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardSorter", "CardSorter\CardSorter.csproj", "{5D52622B-36F9-4C62-9D4E-83163262F977}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardSorterTest", "CardSorterTest\CardSorterTest.csproj", "{479FDE23-9434-4142-867F-A8F281DAE2E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21666BED-0E5B-4ADF-901D-03CA99648721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21666BED-0E5B-4ADF-901D-03CA99648721}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21666BED-0E5B-4ADF-901D-03CA99648721}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21666BED-0E5B-4ADF-901D-03CA99648721}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D52622B-36F9-4C62-9D4E-83163262F977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D52622B-36F9-4C62-9D4E-83163262F977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D52622B-36F9-4C62-9D4E-83163262F977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D52622B-36F9-4C62-9D4E-83163262F977}.Release|Any CPU.Build.0 = Release|Any CPU
+		{479FDE23-9434-4142-867F-A8F281DAE2E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{479FDE23-9434-4142-867F-A8F281DAE2E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{479FDE23-9434-4142-867F-A8F281DAE2E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{479FDE23-9434-4142-867F-A8F281DAE2E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
